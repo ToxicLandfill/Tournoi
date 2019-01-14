@@ -26,7 +26,8 @@ public class App {
 
 		
 		monChampionnat.afficherMatch();
-
+		//test ajout ligne inutile
+		int truc = 2;
 		
 		
 	}
